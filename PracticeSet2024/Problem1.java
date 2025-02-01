@@ -7,7 +7,7 @@ package PracticeSet2024;
 public class Problem1{
 
     public static void main(String[] arg){
-        System.out.println("hello");
+        System.out.println("hello world");
 
     }
 }
